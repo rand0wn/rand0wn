@@ -40,12 +40,6 @@ I am a Machine Learning Engineer, trying to solve real-world problems.
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF)](https://www.microsoft.com/en-gb/windows/)
 [![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=FFFFFF)](https://airflow.apache.org/)
 
-
-📚 Learning with the following resources...
-
-[![Coursera](https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=FFFFFF)](https://www.coursera.org/)
-[![Youtube](https://img.shields.io/badge/-Youtube-F15B2A?style=for-the-badge&logo=Youtube&logoColor=FFFFFF)](https://www.Youtube.com/)
-
 ## 🧮 GitHub statistics
 
 <p>
